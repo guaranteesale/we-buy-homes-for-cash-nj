@@ -25,7 +25,7 @@ node -v
  in your terminal - you should get something like v6.9.4
 
 
-## Run Nightmare We buy homes for cas NJ
+## Run Nightmare We buy homes for cash NJ
 
 ```
 node realty.js
